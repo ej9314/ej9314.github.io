@@ -1,0 +1,45 @@
+body {
+   font-family: 'Roboto', sans-serif;
+   padding-top: 65px;
+   margin-top: 50px;
+}
+.col-container {
+    text-align: center;
+}
+
+a.nav-link {
+    font-size: 20px;
+    color: #873f79 !important;
+}
+.jumbotron {
+    margin-top: 20px;
+    background-image: url(img/jombolo.jpg);
+    background-size: cover;
+    color: white;
+    height: 500px;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+div.container.marketing {
+    text-align: center;
+}
+div.col-lg-4 {
+    float: right;
+}
+
+footer.py-5.bg-dark {
+    background-color: #4a2c4e!important;
+}
+footer.py-5.bg-dark #facebook {
+    float: right;
+}
+footer.py-5.bg-dark #twitter {
+    float: right;
+} 
